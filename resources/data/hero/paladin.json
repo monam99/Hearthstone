@@ -1,0 +1,11 @@
+{
+  "hp": 30,
+  "specialPower": "Add +1/+1 to a random friendly minion each turn.",
+  "heroPower": {
+    "name": "The Silver Hand",
+    "desc": "Summon 2 1/1 minions.",
+    "manaCost": 2,
+    "address" : "resources/images/hero/paladin/paladinPower.png"
+  },
+  "address" : "resources/images/hero/paladin/paladin.png"
+}

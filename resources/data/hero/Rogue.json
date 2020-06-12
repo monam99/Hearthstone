@@ -1,0 +1,11 @@
+{
+  "hp": 30,
+  "specialPower": "Card's from other hero's class would cost 2 mana less.",
+  "heroPower": {
+    "name": "thief",
+    "desc": "Steal a random card from the enemy's deck",
+    "manaCost": 3,
+    "address" : "resources/images/hero/rogue/roguePower.png"
+  },
+  "address" : "resources/images/hero/rogue/rogue.png"
+}

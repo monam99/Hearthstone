@@ -1,0 +1,11 @@
+{
+  "hp": 35,
+  "specialPower": "5 extra health. ",
+  "heroPower": {
+    "name": "Life Tap",
+    "desc": "Deal 2 damage to friendly hero and either add +1/+1 to a random friendly minion or add a random card from your deck to your hand",
+    "manaCost": 0,
+    "address" : "resources/images/hero/warlock/warlockPower.png"
+  },
+  "address" : "resources/images/hero/warlock/warlock.png"
+}

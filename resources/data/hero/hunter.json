@@ -1,0 +1,11 @@
+{
+  "hp": 30,
+  "specialPower": "All minions in the hand are rush.",
+  "heroPower": {
+    "name": "caltrops",
+    "desc": "After your opponent play a minion, deal 1 damage to it.",
+    "manaCost": 0,
+    "address" : "resources/images/hero/hunter/hunterPower.png"
+  },
+  "address" : "resources/images/hero/hunter/hunter.png"
+}

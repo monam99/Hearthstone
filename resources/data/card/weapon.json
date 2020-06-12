@@ -1,0 +1,4 @@
+[ {"name" : "Battle Axe", "desc" :  "", "address" :  "resources/images/card/weapon/Battle_Axe.png", "manaCost" : 1, "price": 3, "rarity" : "FREE" , "cardClass" : "NEUTRAL","attack" : 2,"durability" : 2},
+  {"name" : "Blood Fury", "desc" :  "", "address" :  "resources/images/card/weapon/Blood_Fury.png", "manaCost" : 3, "price": 3, "rarity" : "FREE" , "cardClass" : "NEUTRAL","attack" : 3,"durability" : 8},
+  {"name" : "Dragon Claw", "desc" :  "", "address" :  "resources/images/card/weapon/Dragon_Claw.png", "manaCost" : 5, "price": 3, "rarity" : "FREE" , "cardClass" : "NEUTRAL","attack" : 5,"durability" : 2}
+]

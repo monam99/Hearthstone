@@ -1,0 +1,11 @@
+{
+  "hp": 30,
+  "specialPower": "Any spell card would cost 2 mana less.",
+  "heroPower": {
+    "name": "Fireblast",
+    "desc": "Deal 1 damage.",
+    "manaCost": 2,
+    "address" : "resources/images/hero/mage/magePower.png"
+  },
+  "address" : "resources/images/hero/mage/mage.png"
+}

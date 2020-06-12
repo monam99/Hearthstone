@@ -1,0 +1,6 @@
+[  {"name" : "Security Rover", "desc" :  "Whenever this minion takes damage, summon a 2/3 Mech with Taunt.", "address" :  "resources/images/card/minion/Security_Rover.png", "manaCost" : 6, "price": 7, "rarity" : "RARE" , "cardClass" : "NEUTRAL","health" : 6, "attack" : 2 },
+  {"name" : "Gurubashi Berserker", "desc" :  "Whenever this minion takes damage, gain +3 Attack", "address" :  "resources/images/card/minion/Gurubashi_Berserker.png", "manaCost" : 5, "price": 3, "rarity" : "FREE" , "cardClass" : "NEUTRAL","health" : 7, "attack" : 2 },
+  {"name" : "Curio Collector", "desc" :  "Whenever you draw a card gain +1/+1.", "address" :  "resources/images/card/minion/Curio_Collector.png", "manaCost" : 5, "price": 7, "rarity" : "RARE" , "cardClass" : "NEUTRAL","health" : 4, "attack" : 4 },
+  {"name" : "Tomb Warden", "desc" :  "Taunt, BAttlecry: Summon a copy of this minion.", "address" :  "resources/images/card/minion/Tomb_Warden.png", "manaCost" : 8, "price": 7, "rarity" : "RARE" , "cardClass" : "NEUTRAL","health" : 6, "attack" : 3 },
+  {"name" : "Raid Leader", "desc" :  "Your other minions have +1 Attack", "address" :  "resources/images/card/minion/Raid_Leader.png", "manaCost" : 3, "price": 3, "rarity" : "FREE" , "cardClass" : "NEUTRAL","health" : 2, "attack" : 2 }
+]
